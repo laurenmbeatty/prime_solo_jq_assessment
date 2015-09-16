@@ -28,7 +28,7 @@ $(".generate").on("click", function() {
 
 });
 			
-//change color button
+//change color button...hmm
 
 $($colorButton).on("click", function() {
 	$($colorButton).parent().css("background-color", "red");
